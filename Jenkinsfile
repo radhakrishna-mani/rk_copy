@@ -1,5 +1,5 @@
 pipeline {
-    agent 'host'
+    agent any
  
 
     stages {
